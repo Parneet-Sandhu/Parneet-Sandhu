@@ -1,4 +1,6 @@
 ![5b2c96b9bb30709e3e4e1fdffd4da552](https://github.com/user-attachments/assets/25a2660d-6585-4ebe-8203-f3b250066d6b)
+
+---
 ## Hi there 👋 I'm Parneet Kaur Sandhu
 # Data Scientist | Machine Learning Enthusiast | Geospatial Analyst
 
