@@ -55,8 +55,6 @@ I'm a Data Scientist with a passion for uncovering insights from complex dataset
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parneet-sandhu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="parneet-sandhu" />
 </p> --!>
 
----
-
 <!--
 **Parneet-Sandhu/Parneet-Sandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
