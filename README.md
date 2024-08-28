@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Parneet Kaur Sandhu
 # Data Scientist | Machine Learning Enthusiast | Geospatial Analyst
 
-I'm a Data Scientist with a passion for uncovering insights from complex datasets. My expertise spans machine learning, predictive modeling, and geospatial analysis. I thrive on transforming raw data into actionable intelligence that drives decision-making and innovation.
+I am a dedicated Data Scientist with extensive experience in machine learning, predicting patterns, and analyzing maps and locations. I'm good at using big sets of information to find useful ideas that can help make things better. I enjoy turning simple data into smart plans, using special methods and modern tools to help make good choices.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=parneet-sandhu&label=Profile%20views&color=0e75b6&style=flat" alt="parneet-sandhu" />
