@@ -43,31 +43,19 @@ I'm a Data Scientist with a passion for uncovering insights from complex dataset
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parneet-sandhu&theme=tokyonight" alt="parneet-sandhu" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parneet-sandhu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="parneet-sandhu" />
-</p>
-
----
-
-### 🎖️ Achievements:
-
-- Intern of the Month 🏅
-- British Airways Forage Virtual Internship Certificate 🏆
-- Kaggle Competitions Participant 📊
-
 ---
 
 ### ✍️ Latest Blog Posts:
 
 - [Data Analysis with YData Profiling: A Game Changer for Data Scientists.](https://medium.com/@parneetsandhu/data-analysis-with-ydata-profiling-a-game-changer-for-data-scientists-f93aaed73441)
 
+
+
+<!--<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parneet-sandhu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="parneet-sandhu" />
+</p> --!>
+
 ---
-
-### 🎨 Design Skills:
-
-- Minimalist Design
-- Graphic Design
-- Advertising Material Design
 
 <!--
 **Parneet-Sandhu/Parneet-Sandhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
