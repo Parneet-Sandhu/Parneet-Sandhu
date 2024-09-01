@@ -3,7 +3,7 @@
 ---
 ## Hi there 👋 I'm Parneet Kaur Sandhu
 # Data Scientist | Machine Learning Enthusiast | Geospatial Analyst
-## [Visit My E-Portfolio](https://parneet-sandhu.github.io/ParneetSandhu/)
+## 👩🏻‍💻[Visit My E-Portfolio](https://parneet-sandhu.github.io/ParneetSandhu/)
 <samp>I am a dedicated Data Scientist with extensive experience in machine learning, predicting patterns, and analyzing maps and locations. I'm good at using big sets of information to find useful ideas that can help make things better. I enjoy turning simple data into smart plans, using special methods and modern tools to help make good choices.
 
 <p align="left">
