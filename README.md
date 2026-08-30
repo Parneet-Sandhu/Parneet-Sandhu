@@ -20,7 +20,6 @@ AI/ML Engineer &amp; Data Scientist working across machine learning, generative 
 
 </div>
 
-<br/>
 
 ## 🧠 About Me
 
@@ -31,8 +30,6 @@ Different problems. Different domains. Same obsession: building intelligent thin
 - 🔭 Experienced in production Generative AI — RAG chatbots, conversational AI (Cardekho Group)
 - 🌱 Currently pursuing M.Tech in Cyber Security
 - ⚡ Fun fact: reduced token costs by 40% while maintaining 90% accuracy in a RAG system
-
-<br/>
 
 ## 🛠️ Tech Stack
 
